@@ -1,3 +1,24 @@
 {
-  "posted_jobs": []
+  "posted_jobs": [
+    {
+      "id": "06e7d120b2c5601f",
+      "company": "State Street",
+      "role": "Software Engineer Intern, ML/Data Engineer",
+      "location": "Quincy, MABoston, MA",
+      "application_url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Quincy-Massachusetts/Software-Engineering---ML-Data-Engineer--Internship--Full-Time--Jan---June-2026--Internship_R-779528?utm_source=github-vansh-ouckah",
+      "date_posted": "Oct 31",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-10-31T18:18:13.876588"
+    },
+    {
+      "id": "943b069de4fd52e2",
+      "company": "Salesforce",
+      "role": "Software Engineer Intern, Security/Government",
+      "location": "Bellevue, WASeattle, WASan Francisco, CA",
+      "application_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1?utm_source=github-vansh-ouckah",
+      "date_posted": "Oct 31",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-10-31T18:18:14.091642"
+    }
+  ]
 }
