@@ -1,0 +1,24 @@
+{
+  "discord_webhook_url": "https://discord.com/api/webhooks/1433868690083811509/Irr02CDPVfqqdTX3eGhReVr4X2yutCP9z5m-BHau5uAjWLyP4G1brQFiIqLDL1SgCFdp",
+  "repositories": [
+    {
+      "name": "Summer 2026 Internships",
+      "url": "https://github.com/vanshb03/Summer2026-Internships",
+      "type": "Internship",
+      "badge": "🎓",
+      "color": "#3447eb"
+    },
+    {
+      "name": "New Grad 2026",
+      "url": "https://github.com/vanshb03/New-Grad-2026",
+      "type": "New Grad Position",
+      "badge": "💼",
+      "color": "#2ecc71"
+    }
+  ],
+  "check_interval_hours": 3,
+  "settings": {
+    "skip_closed_positions": true,
+    "send_restrictions_info": true
+  }
+}
