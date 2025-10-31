@@ -8,7 +8,7 @@ import json
 import re
 import hashlib
 import logging
-from datetime import datetime
+from datetime import datetime, date
 from typing import List, Dict, Optional
 import requests
 from urllib.parse import urlparse, parse_qs, urlunparse
@@ -104,10 +104,17 @@ def strip_markdown(text: str) -> str:
 
 
 def extract_url_from_markdown_image(text: str) -> Optional[str]:
-    """Extract URL from markdown image syntax: ![text](url)"""
-    match = re.search(r'!\[.*?\]\((https?://[^\)]+)\)', text)
-    if match:
-        return match.group(1)
+    """Extract URL from markdown image syntax or HTML anchor tag"""
+    # Try HTML anchor tag first: <a href="url">
+    html_match = re.search(r'<a\s+href=["\']([^"\']+)["\']', text, re.IGNORECASE)
+    if html_match:
+        return html_match.group(1)
+
+    # Fallback to markdown image syntax: ![text](url)
+    markdown_match = re.search(r'!\[.*?\]\((https?://[^\)]+)\)', text)
+    if markdown_match:
+        return markdown_match.group(1)
+
     return None
 
 
@@ -134,7 +141,34 @@ def detect_job_status(role: str) -> dict:
     return status
 
 
-def parse_markdown_table(markdown_content: str) -> List[Dict]:
+def is_posted_today(date_posted: str) -> bool:
+    """Check if a job was posted today based on the date string (e.g., 'Oct 30', 'Oct 31')"""
+    if not date_posted:
+        return False
+
+    try:
+        # Parse the date string (format: "Oct 30", "Nov 01", etc.)
+        # Get current date
+        today = datetime.now()
+        current_year = today.year
+
+        # Parse the posted date
+        posted_date = datetime.strptime(f"{date_posted} {current_year}", "%b %d %Y")
+
+        # If the posted date is in the future (e.g., we're in Dec and job says "Jan 01"),
+        # it likely refers to next year, so skip it
+        if posted_date > today:
+            return False
+
+        # Check if it's today
+        return posted_date.date() == today.date()
+
+    except Exception as e:
+        logger.warning(f"Failed to parse date '{date_posted}': {e}")
+        return False
+
+
+def parse_markdown_table(markdown_content: str, only_today: bool = True) -> List[Dict]:
     """Parse markdown table to extract job listings"""
     jobs = []
 
@@ -155,11 +189,16 @@ def parse_markdown_table(markdown_content: str) -> List[Dict]:
     if lines and re.match(r'^\|[\s\-\|]+\|$', lines[0]):
         lines = lines[1:]
 
+
     for line in lines:
         line = line.strip()
 
-        # Stop at empty line or non-table content
-        if not line or not line.startswith('|'):
+        # Skip empty lines
+        if not line:
+            continue
+
+        # Stop at non-table content
+        if not line.startswith('|'):
             break
 
         # Skip separator lines
@@ -196,6 +235,11 @@ def parse_markdown_table(markdown_content: str) -> List[Dict]:
             # Skip closed positions
             if status['is_closed']:
                 logger.debug(f"Skipping closed position: {company} - {role}")
+                continue
+
+            # Only include jobs posted today (if enabled)
+            if only_today and not is_posted_today(date_posted):
+                logger.debug(f"Skipping job not posted today: {company} - {role} (posted: {date_posted})")
                 continue
 
             # Clean emojis from role name for display
@@ -292,7 +336,7 @@ def send_discord_notification(webhook_url: str, job: Dict, repo_config: Dict) ->
         return False
 
 
-def process_repository(repo_config: Dict, webhook_url: str, cache: dict) -> List[Dict]:
+def process_repository(repo_config: Dict, webhook_url: str, cache: dict, only_today: bool = True) -> List[Dict]:
     """Process a single repository and return new jobs found"""
     logger.info(f"Processing repository: {repo_config['name']}")
 
@@ -303,7 +347,7 @@ def process_repository(repo_config: Dict, webhook_url: str, cache: dict) -> List
         return []
 
     # Parse jobs
-    jobs = parse_markdown_table(readme_content)
+    jobs = parse_markdown_table(readme_content, only_today=only_today)
     if not jobs:
         logger.warning(f"No jobs found in {repo_config['name']}")
         return []
@@ -355,15 +399,22 @@ def main():
         config = load_config()
         webhook_url = config['discord_webhook_url']
         repositories = config['repositories']
+        only_today_jobs = config.get('settings', {}).get('only_today_jobs', True)
 
         # Load cache
         cache = load_cache()
         initial_cache_size = len(cache['posted_jobs'])
 
+        # Log filtering mode
+        if only_today_jobs:
+            logger.info("Mode: Only posting jobs from today")
+        else:
+            logger.info("Mode: Posting all new jobs")
+
         # Process each repository
         all_new_jobs = []
         for repo_config in repositories:
-            new_jobs = process_repository(repo_config, webhook_url, cache)
+            new_jobs = process_repository(repo_config, webhook_url, cache, only_today=only_today_jobs)
             all_new_jobs.extend(new_jobs)
 
         # Update cache with new jobs

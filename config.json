@@ -19,6 +19,7 @@
   "check_interval_hours": 3,
   "settings": {
     "skip_closed_positions": true,
-    "send_restrictions_info": true
+    "send_restrictions_info": true,
+    "only_today_jobs": true
   }
 }
