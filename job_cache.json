@@ -289,6 +289,96 @@
       "date_posted": "Nov 01",
       "source_repo": "New Grad 2026",
       "timestamp": "2025-11-01T18:15:37.408740"
+    },
+    {
+      "id": "262d8e8d27d41489",
+      "company": "Domino Data Lab",
+      "role": "Forward Deployed Engineer Intern",
+      "location": "New York, NY",
+      "application_url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7296515?gh_jid=7296515&utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 01",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-01T21:09:27.193828"
+    },
+    {
+      "id": "12dd3764725e34a6",
+      "company": "ByteDance",
+      "role": "Software Engineer Intern, Masters",
+      "location": "San Jose, CA",
+      "application_url": "https://jobs.bytedance.com/en/position/7417891515852900617/detail?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 01",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-01T21:09:27.618937"
+    },
+    {
+      "id": "9f8c62740d906b5e",
+      "company": "Tesla",
+      "role": "Machine Learning Engineer, Tesla Insurance",
+      "location": "Fremont, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/249570?utm_source=vansh",
+      "date_posted": "Nov 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-01T21:09:28.203832"
+    },
+    {
+      "id": "101e763207cc1039",
+      "company": "NVIDIA",
+      "role": "New Grad 2025: Systems Software Engineer, GeForce NOW Low Latency Streaming Technology",
+      "location": "Santa Clara, CA",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Engineer---GeForce-NOW-Low-Latency-Streaming-Technology---New-Grad-2025_JR2006827?utm_source=vansh",
+      "date_posted": "Nov 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-01T21:09:28.573298"
+    },
+    {
+      "id": "a3c2fd99329851e8",
+      "company": "NVIDIA",
+      "role": "New Grad 2026: Software Engineer, AI Infrastructure",
+      "location": "Santa Clara, CA",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Engineer--AI-Infrastructure---New-College-Grad-2026_JR2007199?utm_source=vansh",
+      "date_posted": "Nov 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-01T21:09:28.914682"
+    },
+    {
+      "id": "6424dd614be209ff",
+      "company": "NVIDIA",
+      "role": "New Grad 2025: AI and ML Infra Software Engineer, GPU Clusters",
+      "location": "Santa Clara, CARedmond, WA",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-and-ML-Infra-Software-Engineer--GPU-Clusters---New-College-Grad-2025_JR2006974?utm_source=vansh",
+      "date_posted": "Nov 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-01T21:09:29.249046"
+    },
+    {
+      "id": "63ef139d90235cbb",
+      "company": "Meta",
+      "role": "Data Engineer, Analytics",
+      "location": "New York, NY",
+      "application_url": "https://www.metacareers.com/jobs/2578176955882259?utm_source=vansh",
+      "date_posted": "Nov 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-01T21:09:29.565989"
+    },
+    {
+      "id": "76076c9937c2111b",
+      "company": "Clipboard Health",
+      "role": "Software Engineer, Backend",
+      "location": "Remote",
+      "application_url": "https://jobs.ashbyhq.com/clipboard/b83ea62e-f143-4673-a741-3e98e7e083bd?utm_source=vansh",
+      "date_posted": "Nov 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-01T21:09:29.804122"
+    },
+    {
+      "id": "d01d1f3c2c2aad58",
+      "company": "Amazon",
+      "role": "New Grad 2026: Annapurna Labs at AWS, Early Career (US) - Silicon & AI Systems Innovation",
+      "location": "Austin, TXSeattle, WACupertino, CA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3116902/2026-annapurna-labs-at-aws-early-career-us-silicon-ai-systems-innovation?utm_source=vansh",
+      "date_posted": "Nov 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-01T21:09:30.153810"
     }
   ]
 }
