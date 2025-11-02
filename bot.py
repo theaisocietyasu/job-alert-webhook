@@ -8,7 +8,8 @@ import json
 import re
 import hashlib
 import logging
-from datetime import datetime, date
+import time
+from datetime import datetime, date, timedelta
 from typing import List, Dict, Optional
 import requests
 from urllib.parse import urlparse, parse_qs, urlunparse
@@ -207,12 +208,53 @@ def is_posted_within_days(date_posted: str, days_back: int = 7) -> bool:
         return False
 
 
-def parse_markdown_table(markdown_content: str, only_today: bool = False) -> List[Dict]:
+def is_posted_within_hours(date_posted: str, hours_back: int = 3) -> bool:
+    """Check if a job was posted within the last N hours based on the date string
+
+    Args:
+        date_posted: Date string in format "Oct 30", "Nov 01", etc.
+        hours_back: Number of hours to look back from now (default: 3)
+
+    Returns:
+        True if job was posted within the specified hours, False otherwise
+    """
+    if not date_posted:
+        return False
+
+    try:
+        # Get current datetime
+        now = datetime.now()
+        current_year = now.year
+
+        # Parse the posted date (format: "Oct 30", "Nov 01", etc.)
+        # This gives us the date at midnight
+        posted_date = datetime.strptime(f"{date_posted} {current_year}", "%b %d %Y")
+
+        # If the posted date is in the future, it likely refers to next year
+        if posted_date > now:
+            return False
+
+        # Calculate time difference in hours
+        time_diff = now - posted_date
+        hours_diff = time_diff.total_seconds() / 3600
+
+        # Check if within the specified number of hours
+        # Since we only have the date (not time), we check if it's within hours_back + 24 hours
+        # This ensures we catch jobs from "today" even if posted at midnight
+        return 0 <= hours_diff <= (hours_back + 24)
+
+    except Exception as e:
+        logger.warning(f"Failed to parse date '{date_posted}': {e}")
+        return False
+
+
+def parse_markdown_table(markdown_content: str, only_today: bool = False, hours_back: int = 0) -> List[Dict]:
     """Parse markdown table to extract job listings
 
     Args:
         markdown_content: The markdown content to parse
-        only_today: If True, only include jobs posted today. If False, include all jobs (deduplication handled by cache)
+        only_today: If True, only include jobs posted today
+        hours_back: If > 0, only include jobs posted within last N hours (overrides only_today)
     """
     jobs = []
 
@@ -281,11 +323,18 @@ def parse_markdown_table(markdown_content: str, only_today: bool = False) -> Lis
                 logger.debug(f"Skipping closed position: {company} - {role}")
                 continue
 
-            # Optional date filtering (if only_today is True)
-            # Otherwise, rely on cache for deduplication
-            if only_today and not is_posted_today(date_posted):
-                logger.debug(f"Skipping job not posted today: {company} - {role} (posted: {date_posted})")
-                continue
+            # Date filtering logic
+            if hours_back > 0:
+                # Filter by hours (e.g., last 3 hours)
+                if not is_posted_within_hours(date_posted, hours_back):
+                    logger.debug(f"Skipping job outside time window: {company} - {role} (posted: {date_posted})")
+                    continue
+            elif only_today:
+                # Filter by today only
+                if not is_posted_today(date_posted):
+                    logger.debug(f"Skipping job not posted today: {company} - {role} (posted: {date_posted})")
+                    continue
+            # Otherwise, no date filtering - rely on cache for deduplication
 
             # Clean emojis from role name for display
             role = re.sub(r'[🛂🇺🇸🔒]', '', role).strip()
@@ -381,14 +430,15 @@ def send_discord_notification(webhook_url: str, job: Dict, repo_config: Dict) ->
         return False
 
 
-def process_repository(repo_config: Dict, webhook_url: str, cache: dict, only_today: bool = False) -> List[Dict]:
+def process_repository(repo_config: Dict, webhook_url: str, cache: dict, only_today: bool = False, hours_back: int = 0) -> List[Dict]:
     """Process a single repository and return new jobs found
 
     Args:
         repo_config: Repository configuration
         webhook_url: Discord webhook URL
         cache: Job cache for deduplication
-        only_today: If True, only include jobs posted today. If False, rely on cache for deduplication
+        only_today: If True, only include jobs posted today
+        hours_back: If > 0, only include jobs posted within last N hours
     """
     logger.info(f"Processing repository: {repo_config['name']}")
 
@@ -399,7 +449,7 @@ def process_repository(repo_config: Dict, webhook_url: str, cache: dict, only_to
         return []
 
     # Parse jobs
-    jobs = parse_markdown_table(readme_content, only_today=only_today)
+    jobs = parse_markdown_table(readme_content, only_today=only_today, hours_back=hours_back)
     logger.info(f"Parsed {len(jobs)} jobs from {repo_config['name']}")
 
     if not jobs:
@@ -421,7 +471,7 @@ def process_repository(repo_config: Dict, webhook_url: str, cache: dict, only_to
         if job_id not in cached_job_ids:
             logger.info(f"New job found: {job['company']} - {job['role']}")
 
-            # Send Discord notification
+            # Send Discord notification with rate limiting
             if send_discord_notification(webhook_url, job, repo_config):
                 # Add to new jobs list
                 job_record = {
@@ -435,6 +485,10 @@ def process_repository(repo_config: Dict, webhook_url: str, cache: dict, only_to
                     'timestamp': datetime.utcnow().isoformat()
                 }
                 new_jobs.append(job_record)
+
+                # Rate limiting: Wait 0.5 seconds between notifications to respect Discord limits
+                # Discord allows ~5 requests per second, so 0.5s delay = 2 req/sec (safe buffer)
+                time.sleep(0.5)
         else:
             logger.debug(f"Job already posted: {job['company']} - {job['role']}")
 
@@ -455,6 +509,7 @@ def main():
         webhook_url = config['discord_webhook_url']
         repositories = config['repositories']
         only_today_jobs = config.get('settings', {}).get('only_today_jobs', True)
+        hours_back = config.get('settings', {}).get('hours_back', 0)
 
         # Load cache
         cache = load_cache()
@@ -462,7 +517,9 @@ def main():
         logger.info(f"Loaded cache with {initial_cache_size} existing jobs")
 
         # Log filtering mode
-        if only_today_jobs:
+        if hours_back > 0:
+            logger.info(f"Mode: Posting jobs from last {hours_back} hours (deduplication via cache)")
+        elif only_today_jobs:
             logger.info("Mode: Only posting jobs from today")
         else:
             logger.info("Mode: Posting all new jobs (deduplication via cache)")
@@ -470,7 +527,7 @@ def main():
         # Process each repository
         all_new_jobs = []
         for repo_config in repositories:
-            new_jobs = process_repository(repo_config, webhook_url, cache, only_today=only_today_jobs)
+            new_jobs = process_repository(repo_config, webhook_url, cache, only_today=only_today_jobs, hours_back=hours_back)
             all_new_jobs.extend(new_jobs)
 
         # Update cache with new jobs
