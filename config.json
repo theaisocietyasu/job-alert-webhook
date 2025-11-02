@@ -20,6 +20,6 @@
   "settings": {
     "skip_closed_positions": true,
     "send_restrictions_info": true,
-    "only_today_jobs": true
+    "only_today_jobs": false
   }
 }
