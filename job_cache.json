@@ -809,6 +809,66 @@
       "date_posted": "Nov 08",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2025-11-08T18:15:49.976431"
+    },
+    {
+      "id": "4e2bce0fe1c22d52",
+      "company": "Zoox",
+      "role": "Test Automation & QA Systems Intern",
+      "location": "Foster City, CA",
+      "application_url": "https://jobs.lever.co/zoox/3a7c0c4b-4f23-4136-99a9-df64b341a0fd?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 09",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-09T18:15:47.128450"
+    },
+    {
+      "id": "f6daa109cb4a859a",
+      "company": "Sonos",
+      "role": "Software Engineer Intern",
+      "location": "Boston, MA",
+      "application_url": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Software-Engineering-Intern_R2576-1?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 09",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-09T18:15:47.947512"
+    },
+    {
+      "id": "3581ee728e1cd580",
+      "company": "SingleStore",
+      "role": "Software Engineer Intern",
+      "location": "United States",
+      "application_url": "https://job-boards.greenhouse.io/singlestore/jobs/7118095?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 09",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-09T18:15:49.033611"
+    },
+    {
+      "id": "db9dff2dac5c4809",
+      "company": "Seagate",
+      "role": "FPGA System Developer Intern",
+      "location": "Shakopee, MN",
+      "application_url": "https://seagatecareers.com/job/Shakopee-FPGA-System-Developer-Intern-MN/1324226500/?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 09",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-09T18:15:49.809252"
+    },
+    {
+      "id": "bb3e923f74599867",
+      "company": "MongoDB",
+      "role": "UI Engineering Intern",
+      "location": "New York, NY",
+      "application_url": "https://www.mongodb.com/careers/jobs/7239047?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 09",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-09T18:15:51.018305"
+    },
+    {
+      "id": "44372fc01dc59357",
+      "company": "Bandwidth",
+      "role": "Software Development Intern, Identity",
+      "location": "Raleigh, NC",
+      "application_url": "https://job-boards.greenhouse.io/bandwidth/jobs/7380793?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 09",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-09T18:15:51.924976"
     }
   ]
 }
