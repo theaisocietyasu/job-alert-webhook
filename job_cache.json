@@ -1259,6 +1259,86 @@
       "date_posted": "Nov 10",
       "source_repo": "New Grad 2026",
       "timestamp": "2025-11-10T15:15:01.304002"
+    },
+    {
+      "id": "7502edfc2cf032fd",
+      "company": "Zoox",
+      "role": "Full Stack Engineer Intern",
+      "location": "Foster City, CA",
+      "application_url": "https://jobs.lever.co/zoox/ed879b80-bfc6-403d-9d65-a26f9db1e3c8?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-12T21:11:57.572628"
+    },
+    {
+      "id": "b313f8e775fe23a2",
+      "company": "Solidigm",
+      "role": "AI/Software Engineering Intern",
+      "location": "Rancho Cordova, CA",
+      "application_url": "https://jobs.smartrecruiters.com/ni/Solidigm/4a9d87fd-e7af-42bc-9a12-6d085428b40d-ai-software-engineering-intern?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-12T21:11:58.347036"
+    },
+    {
+      "id": "7122bf362315d2a1",
+      "company": "Sandisk",
+      "role": "GenAI & AI/ML Engineering Intern",
+      "location": "Milpitas, CA",
+      "application_url": "https://jobs.smartrecruiters.com/sandisk/744000093026280-genai-ai-ml-engineering-intern?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-12T21:11:59.188833"
+    },
+    {
+      "id": "c85e119e42af1b5e",
+      "company": "NBCUniversal",
+      "role": "Software Engineer Intern",
+      "location": "New York, NY",
+      "application_url": "https://jobs.smartrecruiters.com/nbcuniversal3/744000092763177-peacock-software-engineering-internships-summer-2026?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-12T21:12:00.109186"
+    },
+    {
+      "id": "5ae7cc415cc43bd1",
+      "company": "MongoDB",
+      "role": "Software Engineer Intern, Internal Engineering",
+      "location": "New York, NY",
+      "application_url": "https://www.mongodb.com/careers/jobs/7335932?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-12T21:12:00.878489"
+    },
+    {
+      "id": "2707de50ea6a83a7",
+      "company": "iCapital",
+      "role": "Platform Engineering Intern",
+      "location": "New York, NY",
+      "application_url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8244328002?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-12T21:12:01.669127"
+    },
+    {
+      "id": "041c4058efca66e9",
+      "company": "Datadog",
+      "role": "Software Engineering Intern, SRE",
+      "location": "New York, NY",
+      "application_url": "https://careers.datadoghq.com/detail/7367016/?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-12T21:12:02.465183"
+    },
+    {
+      "id": "fc0d2977db476b9c",
+      "company": "Cognex",
+      "role": "Software Engineering Intern",
+      "location": "Wauwatosa, WI",
+      "application_url": "https://cognex.wd1.myworkdayjobs.com/external_career_site/job/Wauwatosa-Wisconsin/Software-Engineering-Intern_R0011358?utm_source=github-vansh-ouckah",
+      "date_posted": "Nov 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-11-12T21:12:03.313968"
     }
   ]
 }
