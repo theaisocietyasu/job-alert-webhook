@@ -1349,6 +1349,36 @@
       "date_posted": "Nov 12",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2025-11-13T00:58:37.260209"
+    },
+    {
+      "id": "ada9b805c2b85322",
+      "company": "SpaceX",
+      "role": "New Grad: Software Engineer",
+      "location": "Redmond, WA",
+      "application_url": "https://job-boards.greenhouse.io/spacex/jobs/8121675002?utm_source=vansh",
+      "date_posted": "Nov 16",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-16T01:02:21.734825"
+    },
+    {
+      "id": "b6de32d14a6b7356",
+      "company": "Replit",
+      "role": "Software Engineer - New Grad (Summer 2026)",
+      "location": "Foster City, CA",
+      "application_url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc?utm_source=vansh",
+      "date_posted": "Nov 16",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-16T01:02:24.224700"
+    },
+    {
+      "id": "e4f946e04fdc84c4",
+      "company": "IMC",
+      "role": "New Grad 2026: Software Engineer",
+      "location": "Chicago, IL",
+      "application_url": "https://www.imc.com/us/careers/jobs/4580755101?utm_source=vansh",
+      "date_posted": "Nov 16",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-11-16T01:02:25.226398"
     }
   ]
 }
