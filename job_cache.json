@@ -1909,6 +1909,116 @@
       "date_posted": "Dec 09",
       "source_repo": "New Grad 2026",
       "timestamp": "2025-12-09T21:11:06.346815"
+    },
+    {
+      "id": "a4ee77cdad1c3b16",
+      "company": "Teradata",
+      "role": "Software Engineering Intern",
+      "location": "El Segundo, CA",
+      "application_url": "https://careers.teradata.com/jobs/219629/software-engineering-intern?rx_a=0&rx_c=&rx_ch=jobp4p&rx_group=116278&rx_id=1939c199-d5f3-11f0-ac97-2324b6a741c8&rx_job=219629&rx_medium=cpc&rx_r=none&rx_source=indeed&rx_ts=20251212T080401Z&rx_vp=cpc&rx_p=GGAJDG6RO1&rx_viewer=d4ccff91228311f084244d5a84b6abced216051a192840a08f1888a15d5312b4&utm_source=github-vansh-ouckah",
+      "date_posted": "Dec 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-12-12T12:26:16.743282"
+    },
+    {
+      "id": "c1aee2078394a562",
+      "company": "GM Financial",
+      "role": "Software Development Engineer Intern",
+      "location": "Irving, TX",
+      "application_url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1449?utm_source=github-vansh-ouckah",
+      "date_posted": "Dec 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-12-12T12:26:17.685204"
+    },
+    {
+      "id": "7cca5f9e03246734",
+      "company": "Docusign",
+      "role": "Software Engineer Intern",
+      "location": "Seattle, WA",
+      "application_url": "https://careers.docusign.com/jobs/28323?lang=en-us&previousLocale=en-US&utm_source=github-vansh-ouckah",
+      "date_posted": "Dec 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-12-12T12:26:18.459048"
+    },
+    {
+      "id": "94c08a4e3d07d5f7",
+      "company": "Axiom Space",
+      "role": "EVA Software Engineering Intern",
+      "location": "Houston, TX",
+      "application_url": "https://axiomspace.wd5.myworkdayjobs.com/External_Career_Site/job/Houston/EVA-Software-Engineering-Intern--Summer-2026-_JR100363?utm_source=github-vansh-ouckah",
+      "date_posted": "Dec 12",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2025-12-12T12:26:19.273220"
+    },
+    {
+      "id": "5b61d6822911df56",
+      "company": "WHOOP",
+      "role": "Software Engineer I, Backend",
+      "location": "Boston, MA",
+      "application_url": "https://jobs.lever.co/whoop/02b3ba78-ccb4-40a4-94b3-6b14c71eed9e?utm_source=vansh",
+      "date_posted": "Dec 12",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-12-12T12:26:20.539181"
+    },
+    {
+      "id": "6bb4290d1cf60332",
+      "company": "Waymo",
+      "role": "WebRAD & Rider Support Full Stack SWE",
+      "location": "Mountain View, CA",
+      "application_url": "https://careers.withwaymo.com/jobs/webrad-rider-support-full-stack-swe-mountain-view-california-united-states?utm_source=vansh",
+      "date_posted": "Dec 12",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-12-12T12:26:21.488396"
+    },
+    {
+      "id": "e225953e1b320890",
+      "company": "Viasat",
+      "role": "Software Engineer, Broadband Networks",
+      "location": "Carlsbad, CA",
+      "application_url": "https://careers.viasat.com/jobs/4993?utm_source=vansh",
+      "date_posted": "Dec 12",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-12-12T12:26:22.414076"
+    },
+    {
+      "id": "f3ebc9e97c9bdcd1",
+      "company": "Spotify",
+      "role": "Fullstack Engineer",
+      "location": "New York, NY",
+      "application_url": "https://jobs.lever.co/spotify/213ccab3-7bc8-4a63-957c-89bba89d2036?utm_source=vansh",
+      "date_posted": "Dec 12",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-12-12T12:26:23.189770"
+    },
+    {
+      "id": "74d625e129c378e8",
+      "company": "Spotify",
+      "role": "Machine Learning Engineer",
+      "location": "New York, NYBoston, MARemote",
+      "application_url": "https://jobs.lever.co/spotify/7032c810-478c-42fc-9807-25553e978343?utm_source=vansh",
+      "date_posted": "Dec 12",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-12-12T12:26:24.085320"
+    },
+    {
+      "id": "fc3d203b35ab0bfa",
+      "company": "NVIDIA",
+      "role": "New Grad 2026: GPU and SoC Modelling Architect",
+      "location": "Santa Clara, CA",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-and-SoC-Modelling-Architect---New-College-Grad-2026_JR2009934?utm_source=vansh",
+      "date_posted": "Dec 12",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-12-12T12:26:24.970876"
+    },
+    {
+      "id": "005dac8f9be4e4b1",
+      "company": "Capgemini",
+      "role": "Full Stack AI Engineer",
+      "location": "New York, NY",
+      "application_url": "https://careers.capgemini.com/job/New-York%2C-NY-Full-Stack-AI-Engineer-NY-10001/1275242401?utm_source=vansh",
+      "date_posted": "Dec 12",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2025-12-12T12:26:25.854451"
     }
   ]
 }
