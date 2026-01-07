@@ -2159,6 +2159,136 @@
       "date_posted": "Jan 01",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2026-01-01T18:19:21.336630"
+    },
+    {
+      "id": "2e3cde5e4b1d82e3",
+      "company": "Uber",
+      "role": "New Grad 2026: Software Engineer I",
+      "location": "San Francisco, CA",
+      "application_url": "https://university-uber.icims.com/jobs/152427/job?utm_source=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:47.665387"
+    },
+    {
+      "id": "d9c64a09dec710ee",
+      "company": "Uber",
+      "role": "New Grad 2026: Software Engineer I, Mobile",
+      "location": "San Francisco, CA",
+      "application_url": "https://university-uber.icims.com/jobs/152559/job?mobile=false&width=1069&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240&utm_source=vansh&ref=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:48.540852"
+    },
+    {
+      "id": "5ff00a6c24ee33aa",
+      "company": "TikTok",
+      "role": "Software Engineer Graduate, Site Reliability Engineering",
+      "location": "San Jose, CA",
+      "application_url": "https://lifeattiktok.com/search/7591947799615260933?spread=5MWH5CQ&utm_source=vansh&ref=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:49.543241"
+    },
+    {
+      "id": "7c2490a963944b84",
+      "company": "Tesla",
+      "role": "Software Engineer, Core Vehicle Fulfillment Experience",
+      "location": "Fremont, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/259057?utm_source=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:50.488482"
+    },
+    {
+      "id": "5a54ebf55852cda0",
+      "company": "Tesla",
+      "role": "AI Engineer, Reinforcement Learning, Self-Driving",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/259019?utm_source=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:51.380539"
+    },
+    {
+      "id": "5bd9e5295ab04a91",
+      "company": "Stripe",
+      "role": "New Grad: Security Engineer",
+      "location": "Seattle, WASouth San Francisco, CA",
+      "application_url": "https://stripe.com/jobs/listing/security-engineer-new-grad/7477571?utm_source=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:52.257741"
+    },
+    {
+      "id": "7c2606c1f7c1e2fc",
+      "company": "Renaissance Technologies",
+      "role": "Real-Time Trading Programmer",
+      "location": "East Setauket, NY",
+      "application_url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=realtimeTradingProgrammer&utm_source=vansh&ref=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:53.094186"
+    },
+    {
+      "id": "9a50ef7a410f9dc1",
+      "company": "Renaissance Technologies",
+      "role": "Research Scientist",
+      "location": "East Setauket, NY",
+      "application_url": "https://www.rentec.com/Careers.action?jobs=true&selectedPosition=researchScientist&utm_source=vansh&ref=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:54.031167"
+    },
+    {
+      "id": "bd3a92ed0ced1ac5",
+      "company": "Planbase",
+      "role": "Founding Product Engineer",
+      "location": "San Francisco, CA, US",
+      "application_url": "https://www.workatastartup.com/jobs/87443?utm_source=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:55.088508"
+    },
+    {
+      "id": "9e83f1c6f62336a4",
+      "company": "Planbase",
+      "role": "Founding Engineer",
+      "location": "San Francisco, CA",
+      "application_url": "https://www.workatastartup.com/jobs/88025?utm_source=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:56.265410"
+    },
+    {
+      "id": "3888ddde93e106b3",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "location": "United States, Multiple Locations",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556637693?utm_source=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:57.094197"
+    },
+    {
+      "id": "b5bd70e6af43d53c",
+      "company": "Caddy",
+      "role": "Founding Engineer",
+      "location": "New York, NY",
+      "application_url": "https://www.workatastartup.com/jobs/88067?utm_source=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:57.889702"
+    },
+    {
+      "id": "52dd59602fa0aeff",
+      "company": "Adobe",
+      "role": "Software Development Engineer",
+      "location": "San Jose, CA",
+      "application_url": "https://careers.adobe.com/us/en/job/ADOBUSR160657EXTERNALENUS/2026-University-Graduate-Software-Development-Engineer?utm_source=vansh",
+      "date_posted": "Jan 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-07T01:03:58.864107"
     }
   ]
 }
