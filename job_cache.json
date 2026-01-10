@@ -2529,6 +2529,56 @@
       "date_posted": "Jan 09",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-01-10T01:02:30.182224"
+    },
+    {
+      "id": "ceede2ba88a04b0c",
+      "company": "Tesla",
+      "role": "Technical Program Manager Intern, Cell Manufacturing",
+      "location": "5 locationsPalo Alto, CAFremont, CAAustin, TXRobstown, TXReno, NV",
+      "application_url": "https://www.tesla.com/careers/search/job/259034?utm_source=github-vansh-ouckah",
+      "date_posted": "Jan 10",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-01-10T21:11:25.222538"
+    },
+    {
+      "id": "c9cfe9b8e6c1c8a5",
+      "company": "Exiger",
+      "role": "Software Engineering Intern",
+      "location": "Mclean, VA",
+      "application_url": "https://www.exiger.com/careers/?gh_jid=5751719004&utm_source=github-vansh-ouckah",
+      "date_posted": "Jan 10",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-01-10T21:11:26.192192"
+    },
+    {
+      "id": "d8bb9cc32727f8a2",
+      "company": "Crusoe",
+      "role": "Product Security Applied AI Intern",
+      "location": "San Francisco, CA",
+      "application_url": "https://jobs.ashbyhq.com/Crusoe/e21bb802-1292-476a-8d25-d1ebf18d035a?utm_source=github-vansh-ouckah",
+      "date_posted": "Jan 10",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-01-10T21:11:27.169369"
+    },
+    {
+      "id": "ec675cefc62bcf1a",
+      "company": "Unity Technologies",
+      "role": "Software Engineer",
+      "location": "Remote",
+      "application_url": "https://unity.com/careers/positions/7435121?utm_source=vansh",
+      "date_posted": "Jan 10",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-10T21:11:28.223373"
+    },
+    {
+      "id": "44a9ef0dd019f989",
+      "company": "Adobe",
+      "role": "Software Development Engineer",
+      "location": "San Jose, CA",
+      "application_url": "https://careers.adobe.com/us/en/job/ADOBUSR161061EXTERNALENUS/Software-Development-Engineer?utm_source=vansh",
+      "date_posted": "Jan 10",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-01-10T21:11:29.056577"
     }
   ]
 }
