@@ -2859,6 +2859,216 @@
       "date_posted": "Jan 27",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2026-01-28T01:04:53.104319"
+    },
+    {
+      "id": "08e1a965d7143055",
+      "company": "Zip",
+      "role": "New Grad 2026: Software Engineer",
+      "location": "San Francisco, CA",
+      "application_url": "https://jobs.ashbyhq.com/zip/19f459ee-4907-4883-9d70-35eb96f62082?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:21:58.632743"
+    },
+    {
+      "id": "89d1200ab90180d4",
+      "company": "Twitch Interactive, Inc.",
+      "role": "Software Engineer",
+      "location": "San Francisco, CA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3170102/sde-i-creator-monetization?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:21:59.537877"
+    },
+    {
+      "id": "fb39a8bd5817153c",
+      "company": "Tesla",
+      "role": "Software Engineer, Optimus",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/252155?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:00.420558"
+    },
+    {
+      "id": "b27fc88511c6a37e",
+      "company": "Tesla",
+      "role": "Software QA Engineer, Integration, AI Platforms",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/261393?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:01.341255"
+    },
+    {
+      "id": "8fe456e5aacd3098",
+      "company": "Tesla",
+      "role": "Maps & Navigation Algorithms Engineer, Vehicle Controls",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/261137?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:02.248750"
+    },
+    {
+      "id": "d9d56f7e91c9bbc6",
+      "company": "Tesla",
+      "role": "Test Engineer, Optimus",
+      "location": "Fremont, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/257746?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:03.227212"
+    },
+    {
+      "id": "1122c1d20eeeea5a",
+      "company": "Profound",
+      "role": "New Grad: Software Engineer",
+      "location": "New York City, NYSan Francisco, CA",
+      "application_url": "https://www.tryprofound.com/careers/1d4a905b-7b91-4763-88dd-7abc7562fbcd?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:04.009364"
+    },
+    {
+      "id": "0f95e82f2da2af21",
+      "company": "NVIDIA",
+      "role": "New Grad 2026: ASIC Hardware Design Engineer",
+      "location": "Austin, TX",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:04.805465"
+    },
+    {
+      "id": "a4e86fa5c21e4986",
+      "company": "NVIDIA",
+      "role": "New Grad 2025: Deep Learning Software Engineer, FlashInfer",
+      "location": "Santa Clara, CA",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Deep-Learning-Software-Engineer--FlashInfer---New-College-Grad-2025_JR2002086?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:05.585295"
+    },
+    {
+      "id": "8dc35596fafd1eed",
+      "company": "NVIDIA",
+      "role": "New Grad 2026: Power Methodology and Modeling Engineer",
+      "location": "Austin, TX",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Power-Methodology-and-Modeling-Engineer---New-College-Grad-2026_JR2012047?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:06.360080"
+    },
+    {
+      "id": "2e903b3ff36c073f",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556746621?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:07.129825"
+    },
+    {
+      "id": "49aeda1dbb0207ed",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556746589?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:08.034196"
+    },
+    {
+      "id": "874da913935cb0d8",
+      "company": "Microsoft",
+      "role": "Software Engineer Identity & Network Access",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556668405?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:08.934320"
+    },
+    {
+      "id": "8333b1e2802dea4d",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556631972?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:09.795670"
+    },
+    {
+      "id": "3b1e66578ef2c76f",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556631977?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:10.595461"
+    },
+    {
+      "id": "f85f80182cc532f5",
+      "company": "Microsoft",
+      "role": "Machine Learning Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556641984?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:11.513333"
+    },
+    {
+      "id": "02c8baf6325e99c9",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "location": "Austin, TX",
+      "application_url": "https://jobs.apple.com/en-us/details/200643885-0157/software-engineer-is-t-early-career-opportunities?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:12.256060"
+    },
+    {
+      "id": "53f53dfb96c7bbff",
+      "company": "Apple",
+      "role": "Software Engineer",
+      "location": "Sunnyvale, CA",
+      "application_url": "https://jobs.apple.com/en-us/details/200643886-3956/software-engineer-is-t-early-career-opportunities?team=SFTWR&utm_source=vansh&ref=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:13.068686"
+    },
+    {
+      "id": "a2f6fa180380d703",
+      "company": "Amazon",
+      "role": "Security Engineer I, Security Incident Response Team (SIRT)",
+      "location": "Seattle, WA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3171130/security-engineer-i-security-incident-response-team-sirt-security-incident-response-team-sirt?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:13.816753"
+    },
+    {
+      "id": "a58a762c2b5d2572",
+      "company": "Amazon",
+      "role": "Systems Development Engineer",
+      "location": "Seattle, WA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3168189/systems-development-engineer-amazon-enterprise-engineering-enterprise-engineering?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:14.893582"
+    },
+    {
+      "id": "2dc1182b5dfd58f7",
+      "company": "Amazon",
+      "role": "Systems Development Engineer",
+      "location": "Seattle, WA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3168547/systems-development-engineer-amazon-foundational-security-services-afss?utm_source=vansh",
+      "date_posted": "Feb 01",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-01T09:22:15.641040"
     }
   ]
 }
