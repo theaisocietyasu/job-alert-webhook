@@ -3199,6 +3199,196 @@
       "date_posted": "Feb 07",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2026-02-07T21:18:31.804877"
+    },
+    {
+      "id": "b99fe9a2cdd0068f",
+      "company": "Tesla",
+      "role": "Software Integration Engineer, Cell Manufacturing",
+      "location": "Austin, TX",
+      "application_url": "https://www.tesla.com/careers/search/job/262209?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:28.795546"
+    },
+    {
+      "id": "805e01767c030c4f",
+      "company": "Tesla",
+      "role": "Software QA Engineer, Update Systems Validation, Vehicle Software",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/262739?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:31.082110"
+    },
+    {
+      "id": "303188cc26d7b780",
+      "company": "Tesla",
+      "role": "Software QA Engineer, Document Systems",
+      "location": "Fremont, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/262815?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:32.294593"
+    },
+    {
+      "id": "71eb592c361af439",
+      "company": "Spotify",
+      "role": "Site Reliability Engineer",
+      "location": "New York, NY",
+      "application_url": "https://jobs.lever.co/spotify/ad5ef898-b800-4213-a63e-e39a97df9cfb?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:33.109188"
+    },
+    {
+      "id": "65d36869a772ba5f",
+      "company": "Ramp",
+      "role": "Design Engineer, Design Systems",
+      "location": "New York, NYSan Francisco, CARemote",
+      "application_url": "https://jobs.ashbyhq.com/ramp/6b9108d1-128d-4fd3-8465-fb514ea0e4c4?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:33.910944"
+    },
+    {
+      "id": "3271ef76a1700a4c",
+      "company": "NVIDIA",
+      "role": "New Grad 2026: GPU Power Architect",
+      "location": "Santa Clara, CAAustin, TX",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/GPU-Power-Architect---New-College-Grad-2026_JR2012838?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:34.882443"
+    },
+    {
+      "id": "630d3000d34a423d",
+      "company": "NVIDIA",
+      "role": "New Grad 2026: Formal Verification Engineer",
+      "location": "Austin, TXSanta Clara, CA",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/Formal-Verification-Engineer---New-College-Grad-2026_JR2013065?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:35.746080"
+    },
+    {
+      "id": "abf374a16572ded4",
+      "company": "NVIDIA",
+      "role": "New Grad 2026: ASIC RTL Integration and Netlisting Engineer",
+      "location": "Santa Clara, CA",
+      "application_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/ASIC-RTL-Integration-and-Netlisting-Engineer---New-College-Grad-2026_JR2013172?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:36.628604"
+    },
+    {
+      "id": "4ca750c433cc81a4",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556751379?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:37.633680"
+    },
+    {
+      "id": "205e5ff6fc125b11",
+      "company": "Microsoft",
+      "role": "Network Automation Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556668412?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:38.409961"
+    },
+    {
+      "id": "bd10aa1c83b3f954",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556640145?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:39.269625"
+    },
+    {
+      "id": "ab66850dba079876",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556640236?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:40.102257"
+    },
+    {
+      "id": "a76e2cb7b4d1ef2e",
+      "company": "Microsoft",
+      "role": "Software Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556748514?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:40.955278"
+    },
+    {
+      "id": "c978451e49182cbc",
+      "company": "Microsoft",
+      "role": "Site Reliability Engineer",
+      "location": "United States",
+      "application_url": "https://apply.careers.microsoft.com/careers/job/1970393556753654?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:41.882939"
+    },
+    {
+      "id": "0855843b2373b27e",
+      "company": "Cerebras Systems",
+      "role": "New Grad: Software Engineer",
+      "location": "Sunnyvale, CA",
+      "application_url": "https://job-boards.greenhouse.io/earlytalentcerebras/jobs/7621174003?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:42.785548"
+    },
+    {
+      "id": "880eb174b47bc0af",
+      "company": "Apple",
+      "role": "Junior UI Compositing Engineer",
+      "location": "Cupertino, CA",
+      "application_url": "https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:43.667208"
+    },
+    {
+      "id": "ba0726d9b926289c",
+      "company": "Apple",
+      "role": "Software Engineer, Customer Systems",
+      "location": "Sunnyvale, CA",
+      "application_url": "https://jobs.apple.com/en-us/details/200646547-3956/software-engineer-customer-systems-is-t-early-career?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:44.746053"
+    },
+    {
+      "id": "aacd480f4fb9bf53",
+      "company": "Amazon",
+      "role": "Software Development Engineer",
+      "location": "Seattle, WA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:45.589328"
+    },
+    {
+      "id": "3c0a9f3861d8a584",
+      "company": "Airtable",
+      "role": "New Grad 2026: Software Engineer",
+      "location": "San Francisco, CANew York, NY",
+      "application_url": "https://job-boards.greenhouse.io/airtable/jobs/8409376002?utm_source=vansh",
+      "date_posted": "Feb 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-02-15T18:23:46.412229"
     }
   ]
 }
