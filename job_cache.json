@@ -3529,6 +3529,66 @@
       "date_posted": "Mar 31",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-03-31T01:26:43.963453"
+    },
+    {
+      "id": "d010695d7ed46575",
+      "company": "Twitch",
+      "role": "Software Engineer",
+      "location": "Seattle, WASan Francisco, CA",
+      "application_url": "https://www.amazon.jobs/en/jobs/2944002/software-engineer?utm_source=vansh",
+      "date_posted": "Apr 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-04-05T01:29:46.187119"
+    },
+    {
+      "id": "014838102ff0df17",
+      "company": "Tesla",
+      "role": "Software Engineer, Traction Control & Stability",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/240332?utm_source=vansh",
+      "date_posted": "Apr 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-04-05T01:29:47.161167"
+    },
+    {
+      "id": "38a9c409eda338ec",
+      "company": "Roblox",
+      "role": "New Grad 2025: Software Engineer, Game Solutions Engineering",
+      "location": "San Mateo, CA",
+      "application_url": "https://careers.roblox.com/jobs/6749070?utm_source=vansh",
+      "date_posted": "Apr 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-04-05T01:29:48.177025"
+    },
+    {
+      "id": "ec19fbb42345d0f5",
+      "company": "Roblox",
+      "role": "Software Engineer, Builder Tools",
+      "location": "San Mateo, CA",
+      "application_url": "https://careers.roblox.com/jobs/6759944?utm_source=vansh",
+      "date_posted": "Apr 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-04-05T01:29:49.457061"
+    },
+    {
+      "id": "ec82202b75e3fb29",
+      "company": "Qualtrics",
+      "role": "Machine Learning Engineer I",
+      "location": "Seattle, WA",
+      "application_url": "https://www.qualtrics.com/careers/us/en/job/6774164/Machine-Learning-Engineer-I-Data-Insights?utm_source=vansh",
+      "date_posted": "Apr 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-04-05T01:29:50.363722"
+    },
+    {
+      "id": "8d91c7c234834c9b",
+      "company": "Amazon",
+      "role": "System Development Engineer, Project Kuiper",
+      "location": "Redmond, WA",
+      "application_url": "https://www.amazon.jobs/en/jobs/2945843/system-development-engineer-project-kuiper?utm_source=vansh",
+      "date_posted": "Apr 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-04-05T01:29:51.448631"
     }
   ]
 }
