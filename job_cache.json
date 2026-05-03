@@ -4029,6 +4029,26 @@
       "date_posted": "Apr 29",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2026-04-29T16:24:06.027401"
+    },
+    {
+      "id": "6565fc91f9e50db2",
+      "company": "TikTok",
+      "role": "Full-stack Engineer, Data Platform",
+      "location": "San Jose, CA",
+      "application_url": "https://lifeattiktok.com/search/7275869814408300837?spread=5MWH5CQ&utm_source=vansh&ref=vansh",
+      "date_posted": "May 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-03T01:59:42.261792"
+    },
+    {
+      "id": "c9a7b9e521ab62ac",
+      "company": "SIG",
+      "role": "New Grad: Software Developer",
+      "location": "Bala Cynwyd, PA",
+      "application_url": "https://careers.sig.com/job/SUSQA004Y9261?utm_source=vansh",
+      "date_posted": "May 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-03T01:59:43.009227"
     }
   ]
 }
