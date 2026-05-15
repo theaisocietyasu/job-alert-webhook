@@ -4199,6 +4199,66 @@
       "date_posted": "May 14",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2026-05-14T11:09:36.236408"
+    },
+    {
+      "id": "6b91b518c5f76deb",
+      "company": "Tesla",
+      "role": "Software Engineer, AI Systems Performance Modeling",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/242774?utm_source=vansh",
+      "date_posted": "May 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-15T02:13:55.517811"
+    },
+    {
+      "id": "b4d286b16901b3e1",
+      "company": "Tesla",
+      "role": "Software Engineer, Mobile Robotics Control & Perception",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/233715?utm_source=vansh",
+      "date_posted": "May 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-15T02:13:56.363173"
+    },
+    {
+      "id": "2cd243d15a8cb2a2",
+      "company": "Snowflake",
+      "role": "Software Engineer - Traffic",
+      "location": "Bellevue, WA",
+      "application_url": "https://careers.snowflake.com/us/en/job/SNCOUSEBC678A52AB04A4EB7946E4E684BA055EXTERNALENUSAA0C5E9173DE47C2B57EF66519942F19/-Software-Engineer-Traffic?utm_source=vansh",
+      "date_posted": "May 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-15T02:13:57.135421"
+    },
+    {
+      "id": "046e1f29e0cab6f7",
+      "company": "Pylon",
+      "role": "New Grad 2025: Software Engineer",
+      "location": "Menlo Park, CA",
+      "application_url": "https://jobs.ashbyhq.com/pylon/6f714dd0-e472-4e70-a749-80493cd29420?utm_source=vansh",
+      "date_posted": "May 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-15T02:13:57.926781"
+    },
+    {
+      "id": "de153117748f96f3",
+      "company": "Nuro",
+      "role": "New Grad: Software Engineer, Autonomy",
+      "location": "Mountain View, CA",
+      "application_url": "https://www.nuro.ai/careersitem?gh_jid=6725455&utm_source=vansh&ref=vansh",
+      "date_posted": "May 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-15T02:13:58.777665"
+    },
+    {
+      "id": "708c402679e0e1ac",
+      "company": "Amazon",
+      "role": "Mission Operations Engineer, Project Kuiper",
+      "location": "Redmond, WA",
+      "application_url": "https://www.amazon.jobs/en/jobs/2981483/mission-operations-engineer-project-kuiper-mission-operations-ground-software?utm_source=vansh",
+      "date_posted": "May 15",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-15T02:13:59.764807"
     }
   ]
 }
