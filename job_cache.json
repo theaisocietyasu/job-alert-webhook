@@ -4259,6 +4259,36 @@
       "date_posted": "May 15",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-05-15T02:13:59.764807"
+    },
+    {
+      "id": "442265d95b1b4164",
+      "company": "Esri",
+      "role": "C++ Software Engineer I, Maps SDKs",
+      "location": "Redlands, CA",
+      "application_url": "https://www.esri.com/careers/4735889007?gh_jid=4735889007&utm_source=vansh&ref=vansh",
+      "date_posted": "May 17",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-17T02:09:40.535195"
+    },
+    {
+      "id": "9938f0002f6cbb85",
+      "company": "Doppel",
+      "role": "Software Engineer",
+      "location": "San Francisco, CANew York, NY",
+      "application_url": "https://www.doppel.com/jobs?ashby_jid=07905bfc-1c21-465d-a6bb-39ef71744c3d&utm_source=vansh&ref=vansh",
+      "date_posted": "May 17",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-17T02:09:41.440005"
+    },
+    {
+      "id": "014890175f95c178",
+      "company": "Apple",
+      "role": "Embedded System Software Engineer",
+      "location": "San Diego, CA",
+      "application_url": "https://jobs.apple.com/en-us/details/200604992/embedded-system-software-engineer?team=SFTWR&utm_source=vansh&ref=vansh",
+      "date_posted": "May 17",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-17T02:09:42.565348"
     }
   ]
 }
