@@ -4289,6 +4289,36 @@
       "date_posted": "May 17",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-05-17T02:09:42.565348"
+    },
+    {
+      "id": "6dc9e72b80f9c2a5",
+      "company": "StarSling",
+      "role": "Software Engineer Intern",
+      "location": "San Mateo, CA",
+      "application_url": "https://www.workatastartup.com/jobs/95003?utm_source=github-vansh-ouckah",
+      "date_posted": "May 19",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-05-19T17:33:58.653189"
+    },
+    {
+      "id": "d57ae3a13176195f",
+      "company": "Podium",
+      "role": "Software Engineering Intern",
+      "location": "Lehi, UT",
+      "application_url": "https://job-boards.greenhouse.io/podium81/jobs/7939921?utm_source=github-vansh-ouckah",
+      "date_posted": "May 19",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-05-19T17:33:59.493626"
+    },
+    {
+      "id": "a0fccb7a150716b4",
+      "company": "Nash",
+      "role": "Full Stack Engineering Intern",
+      "location": "San Francisco, CA",
+      "application_url": "https://www.workatastartup.com/jobs/94993?utm_source=github-vansh-ouckah",
+      "date_posted": "May 19",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-05-19T17:34:02.072403"
     }
   ]
 }
