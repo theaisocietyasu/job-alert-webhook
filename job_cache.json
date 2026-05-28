@@ -4479,6 +4479,36 @@
       "date_posted": "May 23",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-05-23T02:09:11.158827"
+    },
+    {
+      "id": "3c350f4416cf17a0",
+      "company": "Point72",
+      "role": "Quantitative Developer",
+      "location": "New York, NY",
+      "application_url": "https://careers.point72.com/CSJobDetail?jobName=quantitative-developer&jobCode=CSS-0013369&location=New%20York&locale=English&utm_source=vansh&ref=vansh",
+      "date_posted": "May 28",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-28T02:11:37.335924"
+    },
+    {
+      "id": "5281fe5b504a14ee",
+      "company": "DRW",
+      "role": "Research Engineer",
+      "location": "New York, NY",
+      "application_url": "https://www.drw.com/work-at-drw/listings/research-engineer-2930985?utm_source=vansh",
+      "date_posted": "May 28",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-28T02:11:38.501025"
+    },
+    {
+      "id": "b911a3eec44774a4",
+      "company": "Citadel Securities",
+      "role": "Systematic Options Trader",
+      "location": "Miami, FL",
+      "application_url": "https://www.citadelsecurities.com/careers/details/systematic-options-trader/?utm_source=vansh",
+      "date_posted": "May 28",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-28T02:11:39.502621"
     }
   ]
 }
