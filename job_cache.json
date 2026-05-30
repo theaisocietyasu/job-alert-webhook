@@ -4509,6 +4509,106 @@
       "date_posted": "May 28",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-05-28T02:11:39.502621"
+    },
+    {
+      "id": "180ccef5aa10c564",
+      "company": "Tesla",
+      "role": "Software Engineer, ML Inference Compiler & Deployment, GPU, CPU",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/243628?utm_source=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:11.606870"
+    },
+    {
+      "id": "869f0203943f1d76",
+      "company": "SquareTrade",
+      "role": "Associate Software Engineer",
+      "location": "Brisbane, CA",
+      "application_url": "https://jobs.smartrecruiters.com/SquareTrade1/744000045758179-associate-software-engineer?trid=2d92f286-613b-4daf-9dfa-6340ffbecf73&utm_source=vansh&ref=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:12.459581"
+    },
+    {
+      "id": "d14b66648e99cbce",
+      "company": "Spectrum",
+      "role": "Software Engineer I",
+      "location": "Englewood, CO",
+      "application_url": "https://jobs.spectrum.com/job/-/-/4673/81850982400?utm_source=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:13.623605"
+    },
+    {
+      "id": "bfa3ba9326600847",
+      "company": "Pega",
+      "role": "Associate Software Engineer, UX Engineering",
+      "location": "Waltham, MA",
+      "application_url": "https://www.pega.com/about/careers/21949/associate-software-engineer-ux-engineering?utm_source=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:14.464228"
+    },
+    {
+      "id": "8e4f9358268f72fd",
+      "company": "Nuro",
+      "role": "New Grad: Software Engineer, Autonomy",
+      "location": "Mountain View, CA",
+      "application_url": "https://www.nuro.ai/careersitem?gh_jid=6932596&utm_source=vansh&ref=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:15.598398"
+    },
+    {
+      "id": "dc0f63f8b1d91bcd",
+      "company": "Mandolin",
+      "role": "New Grad: Front-End Engineer",
+      "location": "San Francisco, CA",
+      "application_url": "https://jobs.ashbyhq.com/mandolin/30bae6c7-6739-4cd6-97c4-fdb7662edf3b?utm_source=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:16.484685"
+    },
+    {
+      "id": "6e0aac26731414bf",
+      "company": "Mandolin",
+      "role": "New Grad: Forward Deployed Engineer",
+      "location": "San Francisco, CA",
+      "application_url": "https://jobs.ashbyhq.com/mandolin/703bd697-dd8f-4a42-8df3-999402605c2f?utm_source=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:17.498936"
+    },
+    {
+      "id": "14057ecc7371bb06",
+      "company": "IXL Learning",
+      "role": "New Grad: Software Engineer",
+      "location": "Raleigh, NC",
+      "application_url": "https://www.ixl.com/company/careers?gh_jid=8017370002&utm_source=vansh&ref=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:18.456988"
+    },
+    {
+      "id": "dd637eb2af15e270",
+      "company": "IXL Learning",
+      "role": "New Grad: Software Engineer",
+      "location": "San Mateo, CA",
+      "application_url": "https://www.ixl.com/company/careers?gh_jid=8017366002&utm_source=vansh&ref=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:19.515681"
+    },
+    {
+      "id": "f4d1d1e4d10251cf",
+      "company": "Greenboard (W24)",
+      "role": "New Grad: Software Engineer",
+      "location": "New York, NY",
+      "application_url": "https://www.workatastartup.com/jobs/75855?utm_source=vansh",
+      "date_posted": "May 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-05-30T02:11:20.981504"
     }
   ]
 }
