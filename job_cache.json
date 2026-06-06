@@ -4619,6 +4619,36 @@
       "date_posted": "May 31",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-05-31T02:36:41.667549"
+    },
+    {
+      "id": "63eb72509cfc0962",
+      "company": "Omnicell",
+      "role": "Software Engineer I",
+      "location": "Cranberry Township, PA",
+      "application_url": "https://elrj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/search/job/4131?utm_source=vansh",
+      "date_posted": "Jun 06",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-06T02:13:29.741729"
+    },
+    {
+      "id": "f38510c0d4cca86d",
+      "company": "N1",
+      "role": "Software Engineer (Backend Rust)",
+      "location": "New York City",
+      "application_url": "https://jobs.ashbyhq.com/n1/99a78724-a7eb-4801-9e75-cf4465950567?utm_source=vansh",
+      "date_posted": "Jun 06",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-06T02:13:30.710835"
+    },
+    {
+      "id": "28446ec1242b3192",
+      "company": "N1",
+      "role": "Software Engineer (Full Stack)",
+      "location": "New York City",
+      "application_url": "https://jobs.ashbyhq.com/n1/2213cef6-fbcd-42f7-8e0e-c6a23bfc1119?utm_source=vansh",
+      "date_posted": "Jun 06",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-06T02:13:31.792428"
     }
   ]
 }
