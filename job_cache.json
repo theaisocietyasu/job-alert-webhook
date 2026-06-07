@@ -4649,6 +4649,66 @@
       "date_posted": "Jun 06",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-06-06T02:13:31.792428"
+    },
+    {
+      "id": "68e676393773786a",
+      "company": "Viasat",
+      "role": "Full Stack Software Engineer, Early Career",
+      "location": "Carlsbad, CARemote",
+      "application_url": "https://careers.viasat.com/jobs/4457?utm_source=vansh",
+      "date_posted": "Jun 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-07T02:40:33.389087"
+    },
+    {
+      "id": "f1a26465f3f05414",
+      "company": "TransMarket Group",
+      "role": "Junior Quantitative Trader",
+      "location": "Chicago, IL",
+      "application_url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749911007?utm_source=vansh",
+      "date_posted": "Jun 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-07T02:40:34.353501"
+    },
+    {
+      "id": "4b42a8f704f22d9b",
+      "company": "TransMarket Group",
+      "role": "Junior Algorithmic Trader",
+      "location": "Chicago, IL",
+      "application_url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/4749910007?utm_source=vansh",
+      "date_posted": "Jun 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-07T02:40:35.399429"
+    },
+    {
+      "id": "ac356d2573652449",
+      "company": "Lyft",
+      "role": "Software Engineer, Rider",
+      "location": "New York, NY",
+      "application_url": "https://app.careerpuck.com/job-board/lyft/job/8022809002?utm_source=vansh",
+      "date_posted": "Jun 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-07T02:40:36.506385"
+    },
+    {
+      "id": "e204ade74c592614",
+      "company": "Lumafield",
+      "role": "Backend Engineer",
+      "location": "San Francisco, CA",
+      "application_url": "https://www.lumafield.com/careers/job?id=fb3e17b3-d7fe-47da-85c3-aecda001e2ed&utm_source=vansh&ref=vansh",
+      "date_posted": "Jun 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-07T02:40:37.391477"
+    },
+    {
+      "id": "72838db389be1132",
+      "company": "Lockheed Martin",
+      "role": "AI Platform Engineer",
+      "location": "United States",
+      "application_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25037&siteid=5010&PageType=JobDetails&jobid=792011#jobDetails=792011_5010&utm_source=vansh&ref=vansh",
+      "date_posted": "Jun 07",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-07T02:40:38.597999"
     }
   ]
 }
