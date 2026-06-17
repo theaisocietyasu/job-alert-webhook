@@ -4739,6 +4739,46 @@
       "date_posted": "Jun 10",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-06-10T02:34:38.310950"
+    },
+    {
+      "id": "adf7f9bb4d9923e4",
+      "company": "Strac",
+      "role": "Full Stack Engineer",
+      "location": "Seattle, WAAustin, TX",
+      "application_url": "https://wellfound.com/l/2BpbUc?utm_source=vansh",
+      "date_posted": "Jun 17",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-17T02:47:51.234794"
+    },
+    {
+      "id": "c18e52760e346049",
+      "company": "Sentry",
+      "role": "New Grad 2025: Software Engineer",
+      "location": "San Francisco, CA",
+      "application_url": "https://jobs.ashbyhq.com/sentry/90fb5dd4-410d-4672-9f40-3f11ea01c75d?utm_source=vansh",
+      "date_posted": "Jun 17",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-17T02:47:52.026276"
+    },
+    {
+      "id": "16dd2b970af0b75e",
+      "company": "Qualcomm",
+      "role": "Modem Software and System Engineer",
+      "location": "San Diego, CA",
+      "application_url": "https://careers.qualcomm.com/careers/job/446706280712?utm_source=vansh",
+      "date_posted": "Jun 17",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-17T02:47:53.445934"
+    },
+    {
+      "id": "f50fbadc5e6352f1",
+      "company": "Qualcomm",
+      "role": "Product Software Engineer",
+      "location": "San Diego, CA",
+      "application_url": "https://careers.qualcomm.com/careers/job/446706280852?utm_source=vansh",
+      "date_posted": "Jun 17",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-17T02:47:54.228841"
     }
   ]
 }
