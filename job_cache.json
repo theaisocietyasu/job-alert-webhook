@@ -4799,6 +4799,76 @@
       "date_posted": "Jun 21",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-06-21T07:26:12.228119"
+    },
+    {
+      "id": "3cbd132c16d4aab2",
+      "company": "Visa",
+      "role": "Systems Engineer, Virtualization/Linux Engineering",
+      "location": "Highlands Ranch, CO",
+      "application_url": "https://jobs.smartrecruiters.com/Visa/744000066662880-systems-engineer-virtualization-linux-engineering-junior-level-?utm_source=vansh",
+      "date_posted": "Jun 27",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-27T02:25:18.036062"
+    },
+    {
+      "id": "f6db10ae80e1e29e",
+      "company": "Tesla",
+      "role": "Firmware Engineer, Silicon Development",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/244793?utm_source=vansh",
+      "date_posted": "Jun 27",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-27T02:25:18.822559"
+    },
+    {
+      "id": "db12beccd43a559e",
+      "company": "Roblox",
+      "role": "Software Engineer, Infra Foundation",
+      "location": "San Mateo, CA",
+      "application_url": "https://careers.roblox.com/jobs/6993225?utm_source=vansh",
+      "date_posted": "Jun 27",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-27T02:25:19.708496"
+    },
+    {
+      "id": "5b1fe0ff46db164b",
+      "company": "Qualcomm",
+      "role": "IOT Software Engineer",
+      "location": "San Diego, CA",
+      "application_url": "https://careers.qualcomm.com/careers/job/446706462906?utm_source=vansh",
+      "date_posted": "Jun 27",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-27T02:25:20.501029"
+    },
+    {
+      "id": "44f143b29d715ccd",
+      "company": "Qualcomm",
+      "role": "Software Product Application Engineer",
+      "location": "San Diego, CA",
+      "application_url": "https://careers.qualcomm.com/careers/job/446706411550?utm_source=vansh",
+      "date_posted": "Jun 27",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-27T02:25:21.476712"
+    },
+    {
+      "id": "88d32cc35e35c9fb",
+      "company": "Meta",
+      "role": "Software Engineer",
+      "location": "Menlo Park, CA",
+      "application_url": "https://www.metacareers.com/jobs/1947521902323717?utm_source=vansh",
+      "date_posted": "Jun 27",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-27T02:25:22.324667"
+    },
+    {
+      "id": "e46b6496a62ceab9",
+      "company": "Amazon",
+      "role": "System Development Engineer I, Ops Tech Solutions",
+      "location": "Santa Clara, CA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3018378/system-development-engineer-i-ops-tech-solutions?utm_source=vansh",
+      "date_posted": "Jun 27",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-27T02:25:23.209125"
     }
   ]
 }
