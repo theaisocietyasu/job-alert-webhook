@@ -4869,6 +4869,106 @@
       "date_posted": "Jun 27",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-06-27T02:25:23.209125"
+    },
+    {
+      "id": "ccf91a0e887ceb5c",
+      "company": "Twitch",
+      "role": "Software Engineer - Creator",
+      "location": "4 locationsSeattle, WANew York, NYIrvine, CASan Francisco, CA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3019865/software-engineer-creator?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:31:56.348763"
+    },
+    {
+      "id": "2093395c0a5d7afc",
+      "company": "Tesla",
+      "role": "Software Engineer, Optimus",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/225609?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:31:57.490965"
+    },
+    {
+      "id": "863245a358ee61d4",
+      "company": "Tesla",
+      "role": "Technical Artist, UI Design",
+      "location": "Hawthorne, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/239333?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:31:58.259193"
+    },
+    {
+      "id": "604bd57d418b617d",
+      "company": "Qualtrics",
+      "role": "Software Engineer I, Employee Experience",
+      "location": "Seattle, WA",
+      "application_url": "https://www.qualtrics.com/careers/us/en/job/QUALUS6957175EXTERNALENUS/Software-Engineer-I-Employee-Experience?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:31:59.216729"
+    },
+    {
+      "id": "6689f1ec44d3adc7",
+      "company": "Qualcomm",
+      "role": "Display SW Engineer",
+      "location": "San Diego, CA",
+      "application_url": "https://careers.qualcomm.com/careers/job/446706463987?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:32:00.031278"
+    },
+    {
+      "id": "51892cb8e3447d3c",
+      "company": "HashiCorp",
+      "role": "Backend Engineer - Enterprise Identity",
+      "location": "RemoteUS",
+      "application_url": "https://www.hashicorp.com/en/career/6914251?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:32:01.147644"
+    },
+    {
+      "id": "7e7fc0273be792b0",
+      "company": "CVS Health",
+      "role": "Associate Software Engineer",
+      "location": "Irving, TX",
+      "application_url": "https://jobs.cvshealth.com/us/en/job/CVSCHLUSR0632604EXTERNALENUS/Associate-Software-Engineer?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:32:02.122288"
+    },
+    {
+      "id": "594597f3bd365269",
+      "company": "Citi",
+      "role": "Software Engineer",
+      "location": "Tampa, FL",
+      "application_url": "https://jobs.citi.com/job/-/-/287/79829803904?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:32:03.185595"
+    },
+    {
+      "id": "5becb9a12361d1ae",
+      "company": "Amazon",
+      "role": "Security Engineer, AppSec Testing Automation and Insights",
+      "location": "New York, NY",
+      "application_url": "https://www.amazon.jobs/en/jobs/3012833/security-engineer-appsec-testing-automation-and-insights?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:32:03.985400"
+    },
+    {
+      "id": "9fe0980cc8f24bcf",
+      "company": "Amazon",
+      "role": "Mission Operations Engineer, Project Kuiper - Mission Operations",
+      "location": "Redmond, WA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3013296/mission-operations-engineer-project-kuiper-mission-operations?utm_source=vansh",
+      "date_posted": "Jun 30",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-06-30T02:32:04.761719"
     }
   ]
 }
