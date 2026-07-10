@@ -5319,6 +5319,96 @@
       "date_posted": "Jul 07",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2026-07-07T14:08:42.073061"
+    },
+    {
+      "id": "659e9b1551bdb000",
+      "company": "Rakuten International",
+      "role": "Software Engineer Intern",
+      "location": "San Mateo, California",
+      "application_url": "https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenAmericas/job/San-Mateo-California/Intern---Software-Engineer--AI-User-Experience_1033171?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 09",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-07-10T02:01:27.173275"
+    },
+    {
+      "id": "d63c54becd2cf3e0",
+      "company": "Jump Trading Group",
+      "role": "Campus UI Software Engineer Intern",
+      "location": "Chicago, IL",
+      "application_url": "https://www.jumptrading.com/hr/job?gh_jid=8003019&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 09",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-07-10T02:01:28.073812"
+    },
+    {
+      "id": "383b2adc387ccb22",
+      "company": "Jump Trading",
+      "role": "Campus Systems Engineer Intern",
+      "location": "Chicago, IL",
+      "application_url": "https://www.jumptrading.com/hr/job?gh_jid=8007788&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 09",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-07-10T02:01:29.260324"
+    },
+    {
+      "id": "a922cce5c7c9f020",
+      "company": "Uber Technologies, Inc.",
+      "role": "Software Engineer I",
+      "location": "Seattle, Washington",
+      "application_url": "https://jobs.uber.com/en/jobs/160017/?_csid=BOBcQVO6jwRuNsBKbjoAZA&effect=&sm_flow_id=92Yhskrz&state=xlA80FxvL-2272sFxrCsxXWLk7KQR60tJLE43FsTxHI%3D&utm_source=vansh&ref=vansh",
+      "date_posted": "Jul 09",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-10T02:01:30.990326"
+    },
+    {
+      "id": "1ccb99f310b969b7",
+      "company": "U.S. Bank",
+      "role": "Software Engineer 1 (Backend UI and AI)",
+      "location": "Earth City, MO",
+      "application_url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Earth-City-MO/Software-Engineer-1--Backend-UI-and-AI-_2026-0018795?utm_source=vansh",
+      "date_posted": "Jul 09",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-10T02:01:31.914081"
+    },
+    {
+      "id": "29aa560152649a4d",
+      "company": "SimpliSafe",
+      "role": "Software Engineer I",
+      "location": "Boston, MA",
+      "application_url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049510?utm_source=vansh",
+      "date_posted": "Jul 09",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-10T02:01:32.745573"
+    },
+    {
+      "id": "345f5c3397dd7405",
+      "company": "SimpliSafe",
+      "role": "Software Engineer I",
+      "location": "Boston, MA",
+      "application_url": "https://job-boards.greenhouse.io/simplisafe/jobs/8049515?utm_source=vansh",
+      "date_posted": "Jul 09",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-10T02:01:34.352698"
+    },
+    {
+      "id": "8584fa563be54d8f",
+      "company": "RTX",
+      "role": "Software Engineer I",
+      "location": "Fullerton, CA",
+      "application_url": "https://globalhr.wd5.myworkdayjobs.com/en-GB/REC_RTX_Ext_Gateway/job/US-CA-FULLERTON-676--1801-Hughes-Dr--BLDG-676/Software-Engineer-I---Onsite-_01857157?utm_source=vansh",
+      "date_posted": "Jul 09",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-10T02:01:35.216975"
+    },
+    {
+      "id": "67abaad9c304392e",
+      "company": "Leidos",
+      "role": "Software Developer",
+      "location": "St. Louis, MO",
+      "application_url": "https://leidos.wd5.myworkdayjobs.com/External/job/St-Louis-MO/Entry-Level-Software-Developer_R-00186923?utm_source=vansh",
+      "date_posted": "Jul 09",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-10T02:01:36.031241"
     }
   ]
 }
