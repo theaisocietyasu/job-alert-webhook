@@ -5559,6 +5559,56 @@
       "date_posted": "Jul 20",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-07-20T02:06:16.459065"
+    },
+    {
+      "id": "c8d7df452e6e40b4",
+      "company": "Tesla",
+      "role": "Software Integration Engineer, AI Platforms",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/246199?utm_source=vansh",
+      "date_posted": "Jul 24",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-24T01:51:24.736539"
+    },
+    {
+      "id": "3660215d4a199793",
+      "company": "Tesla",
+      "role": "Camera Software Engineer, AI Platforms",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/246198?utm_source=vansh",
+      "date_posted": "Jul 24",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-24T01:51:25.571513"
+    },
+    {
+      "id": "676ebe55be3297af",
+      "company": "Tesla",
+      "role": "Software Engineer, Optimus Inference Co Design",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/246089?utm_source=vansh",
+      "date_posted": "Jul 24",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-24T01:51:26.478004"
+    },
+    {
+      "id": "eff427bf336dec16",
+      "company": "Tesla",
+      "role": "Applications Engineer, Megapack",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/246315?utm_source=vansh",
+      "date_posted": "Jul 24",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-24T01:51:27.711789"
+    },
+    {
+      "id": "c03abc59c7fdb9eb",
+      "company": "QuinStreet",
+      "role": "Entry Level Software Engineer",
+      "location": "Foster City, CA",
+      "application_url": "https://www.quinstreet.com/careers/?gh_jid=7100468&utm_source=vansh&ref=vansh",
+      "date_posted": "Jul 24",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-24T01:51:28.634773"
     }
   ]
 }
