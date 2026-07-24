@@ -5609,6 +5609,66 @@
       "date_posted": "Jul 24",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-07-24T01:51:28.634773"
+    },
+    {
+      "id": "3c4ae64c92c9711d",
+      "company": "Hudson River Trading",
+      "role": "Intern",
+      "location": "New York, NY",
+      "application_url": "https://www.hudsonrivertrading.com/hrt-job/algorithm-development-quant-research-internship-summer-2027/?gh_src=&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-07-24T08:08:37.229377"
+    },
+    {
+      "id": "f94b8820be09091c",
+      "company": "Google",
+      "role": "Software Engineering Intern",
+      "location": "30 locationsMountain View, CAAtlanta, GAAustin, TXBoulder, COCambridge, MABellevue, WAChicago, ILHouston, TXIrvine, CAKirkland, WALos Angeles, CAMadison, WINew York, NYPalo Alto, CAPortland, ORPittsburgh, PARaleigh, NCDurham, NCReston, VARedmond, WARedwood City, CASan Diego, CAGoleta, CASan Bruno, CASeattle, WASan Francisco, CASan Jose, CASanta Cruz, CASouth San Francisco, CASunnyvale, CA",
+      "application_url": "https://www.google.com/about/careers/applications/jobs/results/85564713261245126-software-engineering-intern-bs-summer-2027?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-07-24T08:08:38.064663"
+    },
+    {
+      "id": "dd81cd380b6a828f",
+      "company": "Five Rings",
+      "role": "Software Developer Intern",
+      "location": "New York, NY",
+      "application_url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-07-24T08:08:38.894632"
+    },
+    {
+      "id": "e5986fc7c74be294",
+      "company": "Copart",
+      "role": "Software Engineering Intern",
+      "location": "Dallas, TX",
+      "application_url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110011?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-07-24T08:08:39.775576"
+    },
+    {
+      "id": "ec20006354d08041",
+      "company": "Akuna Capital",
+      "role": "Software Engineer Intern, C# .NET Desktop",
+      "location": "Chicago, IL",
+      "application_url": "https://akunacapital.com/careers/job/8018886/?gh_jid=8018886&utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 24",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-07-24T08:08:40.840856"
+    },
+    {
+      "id": "8290d5ab875df636",
+      "company": "Appian",
+      "role": "New Grad 2027: Associate Solution Engineer",
+      "location": "McLean, VA",
+      "application_url": "https://job-boards.greenhouse.io/appian/jobs/8035750?utm_source=vansh",
+      "date_posted": "Jul 24",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-24T08:08:42.032146"
     }
   ]
 }
