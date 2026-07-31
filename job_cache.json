@@ -6199,6 +6199,166 @@
       "date_posted": "Jul 31",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2026-07-31T19:08:46.012033"
+    },
+    {
+      "id": "025424bd672ab802",
+      "company": "SK Hynix Memory Solution",
+      "role": "Software Engineer Intern",
+      "location": "San Jose, CA",
+      "application_url": "https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009?utm_source=github-vansh-ouckah",
+      "date_posted": "Jul 31",
+      "source_repo": "Summer 2026 Internships",
+      "timestamp": "2026-07-31T21:57:18.856757"
+    },
+    {
+      "id": "e1814b23636a6097",
+      "company": "Woven",
+      "role": "Software Engineer, Analysis/Tool",
+      "location": "Ann Arbor, MI",
+      "application_url": "https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:20.368037"
+    },
+    {
+      "id": "e2087f72af10428a",
+      "company": "Reverb",
+      "role": "Software Engineer, Shipping",
+      "location": "Chicago, IL",
+      "application_url": "https://ats.rippling.com/reverb-careers/jobs/25af40a7-e81c-4748-bac2-51e59e78196b?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:21.315550"
+    },
+    {
+      "id": "91c36a5f860d7b61",
+      "company": "Pennsylvania State University",
+      "role": "DevSecOps Research Computing Software Engineer",
+      "location": "State College, PA",
+      "application_url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/DevSecOps-Research-Computing-Software-Engineer_REQ_0000079351-2?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:22.432047"
+    },
+    {
+      "id": "6964c4500601b610",
+      "company": "Northrop Grumman",
+      "role": "Associate Software Engineer",
+      "location": "Melbourne, FL",
+      "application_url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:23.304084"
+    },
+    {
+      "id": "c3c250513d3ac2f0",
+      "company": "L3Harris Technologies",
+      "role": "Software Engineering Associate",
+      "location": "Reston, VA",
+      "application_url": "https://jobs.l3harris.com/job/Herndon-Associate,-Software-Engineering-VA-20171/1414531300/?ats=successfactors&utm_source=vansh&ref=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:24.142967"
+    },
+    {
+      "id": "e44c59de9c0cb340",
+      "company": "L3Harris Technologies",
+      "role": "Software Engineering Associate",
+      "location": "Colorado Springs, CO",
+      "application_url": "https://jobs.l3harris.com/job/Colorado-Springs-Associate,-Software-Engineering-CO-80925/1414513700/?ats=successfactors&utm_source=vansh&ref=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:25.110626"
+    },
+    {
+      "id": "00942fd65e338e84",
+      "company": "L3Harris Technologies",
+      "role": "Software Engineering Associate",
+      "location": "Palm Bay, FL",
+      "application_url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Software-Engineeriing-FL-32905/1414475800/?ats=successfactors&utm_source=vansh&ref=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:25.964883"
+    },
+    {
+      "id": "caf7996f4e2349a0",
+      "company": "Fidelity Investments",
+      "role": "Software Engineer",
+      "location": "Westlake, TXDurham, NC",
+      "application_url": "https://fmr.wd1.myworkdayjobs.com/fidelitycareers/job/Westlake-TX/Leap-Software-Engineer_2132114?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:27.218906"
+    },
+    {
+      "id": "6775146455789e87",
+      "company": "Esri",
+      "role": "Product Engineer 1, ArcGIS Maps SDKs",
+      "location": "West Redlands, Redlands, CA",
+      "application_url": "https://www.esri.com/careers/5198108007?gh_jid=5198108007&utm_source=vansh&ref=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:28.124751"
+    },
+    {
+      "id": "2474545ac6d12aae",
+      "company": "Duke University",
+      "role": "Analytics Engineer",
+      "location": "Durham, NC",
+      "application_url": "https://careers.duke.edu/job/Durham-Analytics-Engineer-NC-27710/1414289400/?ats=successfactors&utm_source=vansh&ref=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:29.121630"
+    },
+    {
+      "id": "d62854720bb5debe",
+      "company": "Cisco",
+      "role": "Software Engineer 1",
+      "location": "San Jose, CA",
+      "application_url": "https://careers.cisco.com/global/en/job/1449197?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:30.092187"
+    },
+    {
+      "id": "5429d06182585f18",
+      "company": "Axos Bank",
+      "role": "AI Engineer, Consumer IT AI Team",
+      "location": "San Diego, CA",
+      "application_url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA--AI-Engineer_JR5108-1?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:31.104568"
+    },
+    {
+      "id": "a2e176513443af06",
+      "company": "Artera",
+      "role": "Software Developer Associate",
+      "location": "Seattle, WA",
+      "application_url": "https://jobs.lever.co/artera-2/eae88c70-fbf5-4525-890c-d3f9377418b0?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:31.951520"
+    },
+    {
+      "id": "b64392da7574dd0b",
+      "company": "Apple",
+      "role": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
+      "location": "San Diego, CA",
+      "application_url": "https://jobs.apple.com/en-us/details/200657382?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:32.787094"
+    },
+    {
+      "id": "258a92ef2edb1780",
+      "company": "Amerisure",
+      "role": "Software Engineer 1",
+      "location": "Southfield, MI",
+      "application_url": "https://osv-amerisure.wd5.myworkdayjobs.com/Amerisure/job/Farmington-Hills-MI/Software-Engineer-I_JR-002063?utm_source=vansh",
+      "date_posted": "Jul 31",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-07-31T21:57:33.847975"
     }
   ]
 }
