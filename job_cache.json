@@ -6379,6 +6379,36 @@
       "date_posted": "Aug 01",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-08-01T18:55:26.491839"
+    },
+    {
+      "id": "bb836338b653438c",
+      "company": "StubHub",
+      "role": "Associate Product Manager - Consumer Experience",
+      "location": "New York, NY",
+      "application_url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4648133101?utm_source=vansh",
+      "date_posted": "Aug 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-03T01:56:12.094224"
+    },
+    {
+      "id": "fb39ed3090b6e792",
+      "company": "Ramp",
+      "role": "New Grad 2026: Software Engineer - Frontend",
+      "location": "New York, NY",
+      "application_url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89?utm_source=vansh",
+      "date_posted": "Aug 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-03T01:56:12.983566"
+    },
+    {
+      "id": "e18d2550590dc822",
+      "company": "Ramp",
+      "role": "New Grad 2026: Software Engineer - Backend",
+      "location": "New York, NY",
+      "application_url": "https://jobs.ashbyhq.com/ramp/83075cf0-9c22-4475-9c6b-e21923a96df8?utm_source=vansh",
+      "date_posted": "Aug 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-03T01:56:13.890958"
     }
   ]
 }
