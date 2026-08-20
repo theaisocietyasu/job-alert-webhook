@@ -7669,6 +7669,26 @@
       "date_posted": "Aug 19",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-08-19T00:41:18.470947"
+    },
+    {
+      "id": "4cb4190fe9d0d051",
+      "company": "Tesla",
+      "role": "Software Engineer, Manufacturing Test",
+      "location": "SPARKS, Nevada",
+      "application_url": "https://www.tesla.com/careers/search/job/242064?utm_source=vansh",
+      "date_posted": "Aug 20",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-20T00:41:05.839173"
+    },
+    {
+      "id": "61d7c9da7d21a21a",
+      "company": "Tesla",
+      "role": "AI Engineer, Multimodal Model Optimization, Autonomy & Robotics",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/248886?utm_source=vansh",
+      "date_posted": "Aug 20",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-20T00:41:06.957730"
     }
   ]
 }
