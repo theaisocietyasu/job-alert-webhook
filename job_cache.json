@@ -7889,6 +7889,66 @@
       "date_posted": "Aug 21",
       "source_repo": "Summer 2026 Internships",
       "timestamp": "2026-08-21T18:23:11.926407"
+    },
+    {
+      "id": "e2ab591af2066902",
+      "company": "Zip",
+      "role": "New Grad 2026: Software Engineer",
+      "location": "San Francisco, CA",
+      "application_url": "https://jobs.ashbyhq.com/zip/5f28357a-c95d-485a-84f9-feff64ce9fb3?utm_source=vansh",
+      "date_posted": "Aug 22",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-22T00:41:27.945374"
+    },
+    {
+      "id": "f52bbddb93fa6152",
+      "company": "Tesla",
+      "role": "Software Engineer, Material Flow Robotics",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/248353?utm_source=vansh",
+      "date_posted": "Aug 22",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-22T00:41:31.119166"
+    },
+    {
+      "id": "9a202405f718cc8c",
+      "company": "Tesla",
+      "role": "Software Engineer, Communications Platform",
+      "location": "Fremont, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/247062?utm_source=vansh",
+      "date_posted": "Aug 22",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-22T00:41:32.153817"
+    },
+    {
+      "id": "c2d41e1e3d5a5d4a",
+      "company": "Tesla",
+      "role": "Software Engineer, Frontend, AI Infrastructure Engineering & Tools",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/249133?utm_source=vansh",
+      "date_posted": "Aug 22",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-22T00:41:33.064179"
+    },
+    {
+      "id": "9a5217c49bcf8be1",
+      "company": "eMoney Advisor, LLC",
+      "role": "Associate Software Engineer",
+      "location": "Remote",
+      "application_url": "https://jobs.jobvite.com/emoneyadvisor-review/job/oD9hxfwk?utm_source=vansh",
+      "date_posted": "Aug 22",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-22T00:41:34.670652"
+    },
+    {
+      "id": "ae378448200aa53b",
+      "company": "Apple",
+      "role": "Accessibility Engineer, IS&T, Early Career",
+      "location": "Sunnyvale, CA",
+      "application_url": "https://jobs.apple.com/en-us/details/200615794-3956/accessibility-engineer-is-t-early-career?utm_source=vansh",
+      "date_posted": "Aug 22",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-22T00:41:35.660551"
     }
   ]
 }
