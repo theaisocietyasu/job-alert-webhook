@@ -7949,6 +7949,86 @@
       "date_posted": "Aug 22",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-08-22T00:41:35.660551"
+    },
+    {
+      "id": "b0407420761a2b27",
+      "company": "Tesla",
+      "role": "Machine Learning Engineer, Embodied Intelligence, Optimus",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/249027?utm_source=vansh",
+      "date_posted": "Aug 23",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-23T00:44:40.958179"
+    },
+    {
+      "id": "6931d695c4e0be0d",
+      "company": "Tesla",
+      "role": "Electrical & Software Engineer, Circuit Board Test Automation",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/249182?utm_source=vansh",
+      "date_posted": "Aug 23",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-23T00:44:41.805049"
+    },
+    {
+      "id": "dc2f44f2e9dca752",
+      "company": "PayPal",
+      "role": "New Grad: Software Engineer",
+      "location": "5 locationsSan Jose, CAChicago, ILOmaha, NEScottsdale, AZAustin, TX",
+      "application_url": "https://paypal.eightfold.ai/careers/job/274908747686?utm_source=vansh",
+      "date_posted": "Aug 23",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-23T00:44:42.660618"
+    },
+    {
+      "id": "694cb8ffa5055905",
+      "company": "Harvey",
+      "role": "New Grad: Software Engineer",
+      "location": "San Francisco, CA",
+      "application_url": "https://jobs.ashbyhq.com/harvey/fe8e594b-f2e1-453b-8a0d-e0b0bfdf745b?utm_source=vansh",
+      "date_posted": "Aug 23",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-23T00:44:43.517712"
+    },
+    {
+      "id": "3c71bec229e2a5f0",
+      "company": "Epsilon",
+      "role": "New Grad 2025: Associate, Software Engineer",
+      "location": "Irving, TX",
+      "application_url": "https://careers.publicisgroupe.com/jobs/119914?utm_source=vansh",
+      "date_posted": "Aug 23",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-23T00:44:44.432037"
+    },
+    {
+      "id": "a0802aec342762d7",
+      "company": "Citizen Health",
+      "role": "Software Engineer",
+      "location": "San Francisco, CASan Mateo, CA",
+      "application_url": "https://jobs.ashbyhq.com/Citizen%20Health/ea388b8a-16cb-4b1b-b64f-479f0dc69764?utm_source=vansh",
+      "date_posted": "Aug 23",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-23T00:44:45.397788"
+    },
+    {
+      "id": "ac7da1aacd483b74",
+      "company": "Amazon",
+      "role": "Antenna Systems Engineer, Antenna Calibration, Kuiper",
+      "location": "Redmond, WA",
+      "application_url": "https://www.amazon.jobs/en/jobs/3064596/antenna-systems-engineer-antenna-calibration-kuiper?utm_source=vansh",
+      "date_posted": "Aug 23",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-23T00:44:46.304220"
+    },
+    {
+      "id": "c35b6d02fc81f5ff",
+      "company": "Adobe",
+      "role": "New Grad 2026: Machine Learning Engineer",
+      "location": "San Jose, CASan Francisco, CA",
+      "application_url": "https://careers.adobe.com/us/en/job/ADOBUSR158632EXTERNALENUS/2026-University-Graduate-Machine-Learning-Engineer?utm_source=vansh",
+      "date_posted": "Aug 23",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-08-23T00:44:47.224803"
     }
   ]
 }
