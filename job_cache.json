@@ -8129,6 +8129,156 @@
       "date_posted": "Aug 28",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-08-28T00:10:05.067647"
+    },
+    {
+      "id": "d072f2169c4d2b89",
+      "company": "Stripe",
+      "role": "New Grad: Software Engineer",
+      "location": "South San Francisco, CASeattle, WA",
+      "application_url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:08:57.418535"
+    },
+    {
+      "id": "91aaa5f016f4cff9",
+      "company": "Stripe",
+      "role": "Software Engineer - New Grad",
+      "location": "Seattle, WASF",
+      "application_url": "https://stripe.com/jobs/search?gh_jid=7210112&utm_source=vansh&ref=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:08:58.797416"
+    },
+    {
+      "id": "a92403d517de8ddb",
+      "company": "Roblox",
+      "role": "New Grad 2026: Associate Product Manager",
+      "location": "San Mateo, CA",
+      "application_url": "https://careers.roblox.com/jobs/7167343?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:08:59.643702"
+    },
+    {
+      "id": "68d6c8c77a1d3b65",
+      "company": "Roblox",
+      "role": "New Grad 2026: Associate Product Designer",
+      "location": "San Mateo, CA",
+      "application_url": "https://careers.roblox.com/jobs/7167345?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:00.502416"
+    },
+    {
+      "id": "663470aa7deb6599",
+      "company": "Pylon",
+      "role": "New Grad - Software Engineer",
+      "location": "SF",
+      "application_url": "https://jobs.ashbyhq.com/pylon-labs/ecf0d509-cfb9-43c6-b628-1e685d6f5f42/application?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:02.365988"
+    },
+    {
+      "id": "cb5541acea7c6e7a",
+      "company": "Nutanix",
+      "role": "Software Engineer 1 / Early Career - Backend C++/Linux/AWS-S3",
+      "location": "Durham, NC",
+      "application_url": "https://jobs.jobvite.com/nutanix/job/oGXDxfwx?nl=1&nl=1&fr=false&utm_source=vansh&ref=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:03.385961"
+    },
+    {
+      "id": "5b3d878234762e53",
+      "company": "N1",
+      "role": "New Grad Software Engineer - Backend Rust",
+      "location": "Oakland, CANYC",
+      "application_url": "https://jobs.ashbyhq.com/n1/a3e25c84-0846-454a-b2fc-a356c2a713bd/application?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:04.180821"
+    },
+    {
+      "id": "9482e48b61e3cf03",
+      "company": "Luma",
+      "role": "Research Scientist / Engineer - Data",
+      "location": "Remote",
+      "application_url": "https://jobs.ashbyhq.com/luma-ai/f41a9fc6-40b5-4063-b093-b50ffe919ad8?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:05.213227"
+    },
+    {
+      "id": "58a6eb9ca8f82b4a",
+      "company": "LinkedIn",
+      "role": "Associate Product Builder (APB) - Rotational Program",
+      "location": "Mountain View, CASan Francisco, CA",
+      "application_url": "https://jobs.smartrecruiters.com/LinkedIn3/a3b09881-7c3e-444c-9e65-ac0e2c6a8970?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:06.067330"
+    },
+    {
+      "id": "3c867d8f69cc07f5",
+      "company": "IBM",
+      "role": "Software Developer",
+      "location": "14 locationsSandy Springs, GAPoughkeepsie, NYLowell, MARochester, MNTucson, AZResearch Triangle Park, NCDurham, NCHopewell Junction, NYSan Jose, CADallas, TXHouston, TXAustin, TXHerndon, VANew York, NY",
+      "application_url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=56285&utm_source=vansh&ref=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:07.001876"
+    },
+    {
+      "id": "550b0318861cbdf9",
+      "company": "Gecko Robotics",
+      "role": "Software Engineer - New Graduate Rotational Development Program",
+      "location": "Boston, MANYC",
+      "application_url": "https://jobs.ashbyhq.com/gecko-robotics/7d9ce912-14c3-405b-9f8a-7f261fe8230d/application?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:08.314468"
+    },
+    {
+      "id": "91d9506ad35fd840",
+      "company": "Garmin",
+      "role": "Software Engineer I - Embedded Software",
+      "location": "Olathe, KS",
+      "application_url": "https://careers.garmin.com/jobs/16827?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:09.183105"
+    },
+    {
+      "id": "57f9209dc56f2a3e",
+      "company": "Commure",
+      "role": "New Grad 2026: Software Engineer",
+      "location": "Mountain View, CA",
+      "application_url": "https://www.commure.com/careers-detail?ashby_jid=00dbfa4a-986c-4c98-a966-47874d1ff0f8&utm_source=vansh&ref=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:10.395508"
+    },
+    {
+      "id": "296165bf67d5a913",
+      "company": "Cape",
+      "role": "New Grad: Software Engineer",
+      "location": "New York, NYWashington, DC",
+      "application_url": "https://jobs.ashbyhq.com/Cape/bd280ded-4298-47de-a186-1aebd1bd94b8?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:11.480059"
+    },
+    {
+      "id": "787ec436240a5b3e",
+      "company": "Atlassian",
+      "role": "New Grad 2026: Software Engineer",
+      "location": "Seattle, WA",
+      "application_url": "https://careers-americas.icims.com/jobs/20901/software-engineer%252c-2026-graduate-u.s./job?utm_source=vansh",
+      "date_posted": "Sep 03",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-03T02:09:12.416085"
     }
   ]
 }
