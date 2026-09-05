@@ -8279,6 +8279,46 @@
       "date_posted": "Sep 03",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-09-03T02:09:12.416085"
+    },
+    {
+      "id": "7b3a2aed6a588e6f",
+      "company": "MetroStar",
+      "role": "Associate Software Developer",
+      "location": "Reston, VA",
+      "application_url": "https://www.metrostar.com/job-post/?gh_jid=6667276003&utm_source=vansh&ref=vansh",
+      "date_posted": "Sep 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-05T02:05:53.906907"
+    },
+    {
+      "id": "ae176585976560de",
+      "company": "Ellipsis Labs",
+      "role": "Software Engineer",
+      "location": "NYC",
+      "application_url": "https://jobs.ashbyhq.com/ellipsislabs/caa49297-d5a3-4d03-b8c9-bdc7b77fb0bb/application?utm_source=vansh",
+      "date_posted": "Sep 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-05T02:05:56.906609"
+    },
+    {
+      "id": "f15303a628d9443e",
+      "company": "Altice USA",
+      "role": "Software Dev Engineer I",
+      "location": "Plainview, NY",
+      "application_url": "https://www.alticeusacareers.com/job/Bethpage-Software-Dev-Engineer-I-NY-11714/1322496900/?ats=successfactors&utm_source=vansh&ref=vansh",
+      "date_posted": "Sep 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-05T02:05:58.203273"
+    },
+    {
+      "id": "f3501c664ed9dcab",
+      "company": "Aflac",
+      "role": "Software Engineer I",
+      "location": "Columbus, GA",
+      "application_url": "https://careers.aflac.com/job/Software-Engineer-I-GA-31999/1323022100/?ats=successfactors&utm_source=vansh&ref=vansh",
+      "date_posted": "Sep 05",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-05T02:05:59.250134"
     }
   ]
 }
