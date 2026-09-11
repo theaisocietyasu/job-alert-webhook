@@ -8639,6 +8639,76 @@
       "date_posted": "Sep 10",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-09-10T02:12:06.572922"
+    },
+    {
+      "id": "e127d8e22647e0fd",
+      "company": "Tesla",
+      "role": "Software QA Engineer, Insurance",
+      "location": "Fremont, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/250710?utm_source=vansh",
+      "date_posted": "Sep 11",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-11T02:08:25.540696"
+    },
+    {
+      "id": "dcb4d0757b9ec510",
+      "company": "Tesla",
+      "role": "Backend Software Engineer, Residential Energy Experience",
+      "location": "Palo Alto, CA",
+      "application_url": "https://www.tesla.com/careers/search/job/250792?utm_source=vansh",
+      "date_posted": "Sep 11",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-11T02:08:26.491368"
+    },
+    {
+      "id": "791593cd1c91cfd9",
+      "company": "SpiderRock",
+      "role": "New Grad 2026: Software Engineer",
+      "location": "Chicago, IL",
+      "application_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?jobId=560273&utm_source=vansh&ref=vansh",
+      "date_posted": "Sep 11",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-11T02:08:27.550382"
+    },
+    {
+      "id": "52c3b2471cd4f956",
+      "company": "Nordstrom",
+      "role": "Engineer 1, Full Stack, Store POS+ Team",
+      "location": "Seattle, WA",
+      "application_url": "https://careers.nordstrom.com/engineer-1-full-stack-store-pos-team-hybrid-seattle-wa/job/4D8A4B0EBC4BABF554018E5C28260729?utm_source=vansh",
+      "date_posted": "Sep 11",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-11T02:08:30.135132"
+    },
+    {
+      "id": "7dbcee01527d6292",
+      "company": "McDonald's Corporation",
+      "role": "Software Engineer I, iOS",
+      "location": "Chicago, IL",
+      "application_url": "https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-iOS-IL-60607/1322170500/?utm_source=vansh",
+      "date_posted": "Sep 11",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-11T02:08:31.434209"
+    },
+    {
+      "id": "c0e597152963cfc0",
+      "company": "Jane Street",
+      "role": "Cybersecurity Analyst",
+      "location": "New York",
+      "application_url": "https://www.janestreet.com/join-jane-street/position/8053215002/?utm_source=vansh",
+      "date_posted": "Sep 11",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-11T02:08:36.078568"
+    },
+    {
+      "id": "9f94f718bb6f7090",
+      "company": "D3 Global Inc",
+      "role": "New Grad: Backend Engineer",
+      "location": "Los Angeles, CA",
+      "application_url": "https://d3.com/careers#jobs-listing?utm_source=vansh",
+      "date_posted": "Sep 11",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-11T02:08:37.313951"
     }
   ]
 }
