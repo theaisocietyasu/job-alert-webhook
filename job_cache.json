@@ -8879,6 +8879,36 @@
       "date_posted": "Sep 17",
       "source_repo": "New Grad 2026",
       "timestamp": "2026-09-17T02:31:53.928296"
+    },
+    {
+      "id": "b792aeba32021c96",
+      "company": "Interaction",
+      "role": "Member of Technical Staff",
+      "location": "San Francisco, CA",
+      "application_url": "https://jobs.ashbyhq.com/interaction/56b66af2-bce5-4ad7-baf9-ace14eb6a29a?utm_source=vansh",
+      "date_posted": "Sep 20",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-20T02:29:12.287101"
+    },
+    {
+      "id": "db0ef2ed1c4416d3",
+      "company": "Channel3",
+      "role": "Founding Engineer",
+      "location": "New York, NY",
+      "application_url": "https://www.workatastartup.com/jobs/80837?utm_source=vansh",
+      "date_posted": "Sep 20",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-20T02:29:13.202162"
+    },
+    {
+      "id": "e995437f5f6e56d6",
+      "company": "Apple",
+      "role": "Camera Framework Engineer, Photo Capture",
+      "location": "Cupertino, CA",
+      "application_url": "https://jobs.apple.com/en-us/details/200622152-0836/camera-framework-engineer-photo-capture?utm_source=vansh",
+      "date_posted": "Sep 20",
+      "source_repo": "New Grad 2026",
+      "timestamp": "2026-09-20T02:29:14.227739"
     }
   ]
 }
